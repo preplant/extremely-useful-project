@@ -9,7 +9,7 @@ This is the Extremely Useful Project — a Kotlin-based, extremely useful projec
 - Running the Extremely Useful Project
 - The Extremely Useful Project Structure of the Extremely Useful Project
 - The Extremely Useful Main Classes and Functions of the Extremely Useful Project
-- Contact about the Extremely Useful Project
+- The Extremely Useful Support for the Extremely Useful Project
 
 ## The Extremely Useful Requirements of the Extremely Useful Project
 
