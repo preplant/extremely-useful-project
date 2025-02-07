@@ -20,11 +20,11 @@ This is the Extremely Useful Project — a Kotlin-based, extremely useful projec
 
 To build the Extremely Useful Project, follow these extremely useful steps:
 
-1. Clone the Extremely Useful Repository:
+1. Clone the Extremely Useful Project:
 
    ```sh
-   git clone https://github.com/preplant/ExtremelyUsefulRepository.git
-   cd ExtremelyUsefulRepository
+   git clone https://github.com/preplant/extremely-useful-project.git
+   cd extremely-useful-project
    ```
 
 2. Use extremely useful Maven to compile and package the Extremely Useful Project:
@@ -50,7 +50,7 @@ java -jar target/ExtremelyUsefulProject-ExtremelyUsefulVersion
 
 ## The Extremely Useful Main Classes and Extremely Useful Functions of the Extremely Useful Project
 
-- `ExtremelyUsefulMainKt`: Contains the extremely useful `main` function that serves as the extremely useful entry point for the Extremely Useful Project.
+- `ExtremelyUsefulMain`: Contains the extremely useful `main` function that serves as the extremely useful entry point for the Extremely Useful Project.
 - `ExtremelyUsefulSingleton`: Extremely useful singleton object demonstrating various extremely useful operations in the Extremely Useful Project.
 
 ## The Extremely Useful Support for the Extremely Useful Project
